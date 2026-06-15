@@ -1,0 +1,9 @@
+agent_id,name,brokerage,phone,email,license_number,active_listings,sold_last_12mo,rating,reviews
+agent_017,Brennan Wakefield,Coldwell Banker Realty,614-555-0271,b.wakefield@coldwellrealty.com,OH-RE-2018-228841,12,41,4.6,73
+agent_019,Priscilla Vasquez,Howard Hanna,614-555-0334,p.vasquez@howardhanna.com,OH-RE-2015-114407,9,28,4.4,51
+agent_021,Tomohiro Saito,Re/Max Affiliates,614-555-0498,t.saito@remax.net,OH-RE-2020-302188,6,17,4.7,32
+agent_022,Eleanor Whitfield,Keller Williams Capital Partners,614-555-0512,e.whitfield@kwcap.com,OH-RE-2012-091248,14,52,4.8,119
+agent_028,Devontae Mbeki,Berkshire Hathaway HomeServices,614-555-0617,d.mbeki@bhhs.com,OH-RE-2019-274051,11,38,4.5,64
+agent_031,Annika Lindqvist,New Albany Realty,614-555-0729,a.lindqvist@newalbanyrealty.com,OH-RE-2017-198822,8,24,4.6,47
+agent_034,Marisol Rivera-Cruz,Coldwell Banker Realty,614-555-0744,m.rivera@coldwellrealty.com,OH-RE-2016-141773,10,31,4.5,58
+agent_037,Hassan El-Mahdy,Howard Hanna,614-555-0815,h.elmahdy@howardhanna.com,OH-RE-2021-318899,5,14,4.3,26

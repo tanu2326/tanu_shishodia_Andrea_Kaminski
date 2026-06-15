@@ -1,0 +1,8 @@
+id,name,real_name,email,is_admin,is_bot,tz,status_text,presence
+U01AKAM,andrea_k,Andrea Kaminski,andrea.kaminski@Finthesiss.ai,false,false,America/New_York,,away
+U01HOST,lawrence_p,Lawrence Park,lawrence.park@westrun.org,true,false,America/New_York,Saturday meetup 6:30 AM,active
+U02ORG,maria_c,Maria Castellanos,maria.c@westrun.org,true,false,America/New_York,PR seeker,active
+U03RUN,deepak_s,Deepak Sharma,deepak.s@gmail.com,false,false,America/New_York,,away
+U04RUN,tomasz_w,Tomasz Walczak,tomasz.w@gmail.com,false,false,America/New_York,,active
+U05RUN,akiko_h,Akiko Honda,akiko.h@gmail.com,false,false,America/New_York,marathon training,active
+U06RUN,jamal_r,Jamal Robinson,jamal.r@gmail.com,false,false,America/New_York,,away

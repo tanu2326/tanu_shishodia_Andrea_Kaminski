@@ -1,0 +1,4 @@
+id,name,is_private,is_archived,topic,purpose,creator,created,num_members
+C01TRAILS,trail-meetups,false,false,Weekend group runs at Alum Creek and Highbanks,Coordinate Saturday morning meetups,U01HOST,2024-04-01T12:00:00Z,47
+C01PACE,pace-and-training,false,false,"Training plans, pace charts, and PR posts",Share training tips and milestones,U01HOST,2024-04-01T12:00:00Z,38
+C01GEAR,gear-and-shoes,false,false,"Shoe rotations, hydration packs, gear reviews",Talk gear without judgement,U02ORG,2024-05-15T14:00:00Z,29

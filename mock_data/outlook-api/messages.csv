@@ -1,0 +1,9 @@
+id,subject,from_name,from_address,to_name,to_address,body_preview,content_type,is_read,importance,received_date
+ol_msg_001,Welcome to Outlook,Microsoft Outlook,no-reply@outlook.com,Andrea Kaminski,andrea.kaminski@Finthesiss.ai,Get started with your new Outlook account.,text,true,low,2024-08-15T12:00:00Z
+ol_msg_002,Calendar sync now available,Outlook Team,team@outlook.com,Andrea Kaminski,andrea.kaminski@Finthesiss.ai,You can now sync your Outlook calendar across devices.,text,true,low,2024-09-12T10:00:00Z
+ol_msg_003,Security tip - enable 2FA,Microsoft Security,security@microsoft.com,Andrea Kaminski,andrea.kaminski@Finthesiss.ai,Enable two-factor authentication for your account.,text,true,normal,2024-10-04T14:00:00Z
+ol_msg_004,Your Outlook signature is empty,Outlook Tips,tips@outlook.com,Andrea Kaminski,andrea.kaminski@Finthesiss.ai,Set up a professional email signature in 2 minutes.,text,true,low,2024-11-22T08:00:00Z
+ol_msg_005,Storage alert - 2% used,Outlook Storage,storage@outlook.com,Andrea Kaminski,andrea.kaminski@Finthesiss.ai,Your mailbox is currently at 2% capacity.,text,true,low,2025-01-15T09:00:00Z
+ol_msg_006,Outlook mobile app available,Outlook Mobile,mobile@outlook.com,Andrea Kaminski,andrea.kaminski@Finthesiss.ai,Download the Outlook mobile app from the App Store.,text,true,low,2025-03-20T11:00:00Z
+ol_msg_007,Spam quarantine summary,Microsoft Outlook,no-reply@outlook.com,Andrea Kaminski,andrea.kaminski@Finthesiss.ai,12 messages moved to your junk folder this week.,text,true,low,2025-09-18T07:00:00Z
+ol_msg_008,Inactive account check-in,Outlook Team,team@outlook.com,Andrea Kaminski,andrea.kaminski@Finthesiss.ai,We noticed your Outlook account has been inactive. Log in to keep it active.,text,false,low,2026-04-08T08:00:00Z

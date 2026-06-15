@@ -1,0 +1,7 @@
+difficulty: hard
+modalities: [text, image, document]
+l1: property_space
+l2: real_estate_listing_review__with_zillow_apis
+task_type: multimodal_reconciliation
+required_apis: [zillow, gmail, google-drive]
+distractor_apis: [airtable, outlook, slack, notion, yelp]

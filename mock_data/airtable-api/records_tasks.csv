@@ -1,0 +1,6 @@
+id,createdTime,Name,Status,Project,EstimateHours,Done
+rec_task_001,2026-01-10T10:00:00Z,Request GMAT score report - Fisher,Done,rec_prog_001,1,true
+rec_task_002,2026-03-15T14:00:00Z,Draft Tom Hadley recommendation letter ask,In Progress,rec_prog_001,2,false
+rec_task_003,2026-04-01T11:00:00Z,Schedule Kelley info session,Todo,rec_prog_002,1,false
+rec_task_004,2026-04-22T09:00:00Z,Request Tepper essay prompts,Todo,rec_prog_003,2,false
+rec_task_005,2026-05-10T17:00:00Z,Compare scholarship windows across all,Todo,rec_prog_001,3,false

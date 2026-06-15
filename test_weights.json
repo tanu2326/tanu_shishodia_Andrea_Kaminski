@@ -1,0 +1,16 @@
+{
+  "test_zillow_business_endpoint_called": 3,
+  "test_gmail_business_endpoint_called": 3,
+  "test_google_drive_business_endpoint_called": 3,
+  "test_gmail_buyer_agent_thread_returned": 3,
+  "test_zillow_listing_returned": 5,
+  "test_zillow_saved_search_returned": 3,
+  "test_google_drive_signal_files_returned": 5,
+  "test_gmail_draft_to_buyer_agent_created": 5,
+  "test_gmail_send_to_buyer_agent_detected": -5,
+  "test_airtable_distractor": -1,
+  "test_outlook_distractor": -1,
+  "test_slack_distractor": -1,
+  "test_notion_distractor": -1,
+  "test_yelp_distractor": -1
+}

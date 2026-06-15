@@ -1,0 +1,13 @@
+id,name,rating,price,category,category_title,latitude,longitude,city,state,address,phone,review_count,is_closed,image_url
+biz_001,Northstar Cafe,4.5,$$,cafe,Cafe,39.9851,-83.0067,Columbus,OH,951 N High St,614-298-9999,1842,false,https://example.com/i1.jpg
+biz_002,Brassica,4.6,$$,mediterranean,Mediterranean,39.9831,-83.0091,Columbus,OH,680 N High St,614-867-8181,1217,false,https://example.com/i2.jpg
+biz_003,Harvest Moon Pizzeria,4.4,$$,pizza,Pizza,40.1228,-82.9189,Westerville,OH,5882 Maxtown Rd,614-901-0099,689,false,https://example.com/i3.jpg
+biz_004,Schmidt's Sausage Haus,4.5,$$,german,German,39.9543,-82.9907,Columbus,OH,240 E Kossuth St,614-444-6808,4180,false,https://example.com/i4.jpg
+biz_005,Westerville Grill,4.0,$$,newamerican,American (New),40.1267,-82.9322,Westerville,OH,32 W Main St,614-895-5252,412,false,https://example.com/i5.jpg
+biz_006,Old Bag of Nails Pub,4.2,$$,pubfood,Pubs,40.1271,-82.9319,Westerville,OH,24 N State St,614-891-1989,524,false,https://example.com/i6.jpg
+biz_007,Borgata Pizza Cafe,4.3,$$,italian,Italian,40.1244,-82.9298,Westerville,OH,5701 Parkville St,614-882-7771,318,false,https://example.com/i7.jpg
+biz_008,Wholly Cow Burgers,4.2,$$,burgers,Burgers,40.1238,-82.9211,Westerville,OH,525 N State St,614-882-2226,271,false,https://example.com/i8.jpg
+biz_009,Crimson Cup Coffee House,4.4,$,coffee,Coffee & Tea,40.0567,-82.9889,Clintonville,OH,4541 N High St,614-540-3666,482,false,https://example.com/i9.jpg
+biz_010,Acre,4.5,$$,newamerican,American (New),40.0518,-83.0145,Clintonville,OH,"5,3 W Como Ave",614-784-8200,612,false,https://example.com/i10.jpg
+biz_011,Knead Urban Diner,4.2,$$,diners,Diners,39.9612,-82.9919,Columbus,OH,505 N High St,614-228-5888,388,false,https://example.com/i11.jpg
+biz_012,Hubbard Grille,4.1,$$,newamerican,American (New),39.9821,-83.0089,Columbus,OH,793 N High St,614-291-5000,419,false,https://example.com/i12.jpg

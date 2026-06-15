@@ -1,0 +1,4 @@
+search_id,user_id,name,city,state,min_price,max_price,min_beds,min_baths,home_type,created_at
+ss_an_2026_05,user_andrea_k,Worthington 3BR under 330,Worthington,OH,200000,330000,3,2.0,SINGLE_FAMILY,2026-05-12
+ss_an_2026_02,user_andrea_k,Westerville 3BR full year explore,Westerville,OH,250000,380000,3,2.0,SINGLE_FAMILY,2026-02-09
+ss_an_2025_11,user_andrea_k,Columbus metro 2BR scoping,Columbus,OH,180000,280000,2,1.0,SINGLE_FAMILY,2025-11-22

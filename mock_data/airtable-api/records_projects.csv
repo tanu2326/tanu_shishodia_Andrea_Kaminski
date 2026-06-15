@@ -1,0 +1,9 @@
+id,createdTime,Name,Status,Owner,Budget
+rec_prog_001,2025-11-22T14:00:00Z,Fisher Online MBA (OSU),Researching,andrea.kaminski@Finthesiss.ai,52400
+rec_prog_002,2025-11-22T14:08:00Z,Kelley Online MBA (IU),Researching,andrea.kaminski@Finthesiss.ai,74560
+rec_prog_003,2025-12-04T19:14:00Z,Tepper Online MBA (CMU),Researching,andrea.kaminski@Finthesiss.ai,156300
+rec_prog_004,2026-01-15T20:22:00Z,Carlson Online MBA (UMN),Researching,andrea.kaminski@Finthesiss.ai,62800
+rec_prog_005,2026-02-08T11:00:00Z,Smith Online MBA (Maryland),Backup,andrea.kaminski@Finthesiss.ai,81200
+rec_prog_006,2026-03-19T08:30:00Z,Owen Online MBA (Vanderbilt),Backup,andrea.kaminski@Finthesiss.ai,88400
+rec_prog_007,2026-04-02T14:00:00Z,Goizueta Online MBA (Emory),Researching,andrea.kaminski@Finthesiss.ai,92300
+rec_prog_008,2026-04-22T16:48:00Z,Trulaske Online MBA (Mizzou),Stretch-low-cost,andrea.kaminski@Finthesiss.ai,41800

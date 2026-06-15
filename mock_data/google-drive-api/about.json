@@ -1,0 +1,14 @@
+{
+  "user": {
+    "displayName": "Andrea Kaminski",
+    "emailAddress": "andrea.kaminski@Finthesiss.ai",
+    "permissionId": "perm-andrea-k"
+  },
+  "storageQuota": {
+    "limit": "16106127360",
+    "usage": "4248391",
+    "usageInDrive": "4248391",
+    "usageInDriveTrash": "0"
+  },
+  "maxUploadSize": "5368709120"
+}

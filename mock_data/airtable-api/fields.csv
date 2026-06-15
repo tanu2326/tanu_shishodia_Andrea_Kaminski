@@ -1,0 +1,13 @@
+tableId,id,name,type
+tbl_programs,fld_name,Program Name,singleLineText
+tbl_programs,fld_school,School,singleLineText
+tbl_programs,fld_tuition,Tuition USD,currency
+tbl_programs,fld_months,Duration Months,number
+tbl_programs,fld_format,Format,singleSelect
+tbl_programs,fld_status,Status,singleSelect
+tbl_deadlines,fld_program,Program,singleLineText
+tbl_deadlines,fld_deadline,Application Deadline,date
+tbl_deadlines,fld_decision_by,Decision By,date
+tbl_gift_ideas,fld_name,Idea,singleLineText
+tbl_gift_ideas,fld_buyer,Who Buys,singleLineText
+tbl_gift_ideas,fld_cost,Est Cost,currency

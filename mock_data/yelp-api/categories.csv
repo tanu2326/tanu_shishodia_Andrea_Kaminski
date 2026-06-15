@@ -1,0 +1,11 @@
+alias,title,parent
+cafe,Cafe,restaurants
+mediterranean,Mediterranean,restaurants
+pizza,Pizza,restaurants
+german,German,restaurants
+newamerican,American (New),restaurants
+pubfood,Pubs,restaurants
+italian,Italian,restaurants
+burgers,Burgers,restaurants
+coffee,Coffee & Tea,food
+diners,Diners,restaurants

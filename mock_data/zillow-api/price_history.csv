@@ -1,0 +1,22 @@
+zpid,event_date,event,price,price_per_sqft,source
+20184772,2026-05-08,Listed for sale,329000,213.64,Zillow
+20184772,2026-06-02,Price change,315000,204.55,Zillow
+20184772,2026-06-04,Status update,315000,204.55,Zillow
+20172200,2026-03-15,Listed for sale,425000,212.5,Zillow
+20172200,2026-05-08,Status update,425000,212.5,Zillow
+20172237,2026-03-15,Listed for sale,489000,244.5,Zillow
+20172237,2026-05-08,Status update,489000,244.5,Zillow
+20172274,2026-03-15,Listed for sale,372000,186.0,Zillow
+20172274,2026-05-08,Status update,372000,186.0,Zillow
+20172311,2026-03-15,Listed for sale,459000,229.5,Zillow
+20172311,2026-05-08,Status update,459000,229.5,Zillow
+20172348,2026-03-15,Listed for sale,478500,239.25,Zillow
+20172348,2026-05-08,Status update,478500,239.25,Zillow
+20172385,2026-03-15,Listed for sale,235000,117.5,Zillow
+20172385,2026-05-08,Status update,235000,117.5,Zillow
+20172422,2026-03-15,Listed for sale,348000,174.0,Zillow
+20172422,2026-05-08,Status update,348000,174.0,Zillow
+20172459,2026-03-15,Listed for sale,412000,206.0,Zillow
+20172459,2026-05-08,Status update,412000,206.0,Zillow
+20172496,2026-03-15,Listed for sale,358500,179.25,Zillow
+20172496,2026-05-08,Status update,358500,179.25,Zillow

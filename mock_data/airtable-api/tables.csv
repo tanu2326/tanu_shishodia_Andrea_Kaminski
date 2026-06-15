@@ -1,0 +1,4 @@
+baseId,id,name,primaryFieldId,records_csv
+app_mba_compare_001,tbl_programs,Programs,fld_name,records_projects.csv
+app_mba_compare_001,tbl_deadlines,Application Deadlines,fld_program,records_tasks.csv
+app_lily_gifts_001,tbl_gift_ideas,Gift Ideas,fld_name,records_contacts.csv

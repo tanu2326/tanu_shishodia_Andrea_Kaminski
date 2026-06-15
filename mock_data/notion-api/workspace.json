@@ -1,0 +1,14 @@
+{
+  "id": "workspace_andrea_personal",
+  "name": "Andrea's Notion (unused)",
+  "domain": "andrea-k-personal",
+  "owner_user_id": "user_andrea_personal",
+  "plan": "free",
+  "created_time": "2024-08-22T10:00:00.000Z",
+  "icon": "https://www.notion.so/icons/scratch.svg",
+  "settings": {
+    "default_page_size": 50,
+    "ai_blocks_enabled": false,
+    "public_sharing_enabled": false
+  }
+}

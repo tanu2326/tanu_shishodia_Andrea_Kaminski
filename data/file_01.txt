@@ -1,0 +1,25 @@
+Strava Monthly Summary - May 2026
+Athlete: Andrea Kaminski
+Total runs: 13
+Total distance: 41.8 miles
+Total time: 6h 17m
+Average pace: 9:01 / mile
+Longest run: 5.2 miles (Alum Creek Trail, May 17)
+Fastest mile: 8:14 (May 24, neighborhood loop)
+Elevation gain (cumulative): 612 ft
+
+Run breakdown:
+  Mon May 04 - 3.1 mi, 27:54, neighborhood loop
+  Wed May 06 - 3.4 mi, 30:42, Alum Creek
+  Sat May 09 - 4.0 mi, 36:08, Alum Creek
+  Mon May 11 - 3.2 mi, 28:51, neighborhood loop
+  Wed May 13 - 3.1 mi, 28:02, neighborhood loop
+  Sat May 16 - 5.2 mi, 47:23, Alum Creek long
+  Mon May 18 - 3.0 mi, 27:11, recovery
+  Wed May 20 - 3.4 mi, 30:18, tempo
+  Sat May 23 - 3.6 mi, 32:01, Alum Creek
+  Mon May 25 - 3.0 mi, 27:08, recovery
+  Wed May 27 - 3.5 mi, 30:55, neighborhood loop
+  Sat May 30 - 4.1 mi, 36:48, Alum Creek
+
+Notes: knee felt tight on May 18 recovery run, eased back. Heart rate trending lower at same paces vs April baseline.
